@@ -1,4 +1,4 @@
-# Prediction-of-clickthrough-rate-for-Rakuten-Interview
+# Prediction-of-clickthrough-rate-for-Rakuten-Interview using Linear Models/Boosting models (XGBoost, LightGBM, CatBoost)
 
 Rakuten Advertising is informed of a new auction for an ad placement for an 
 user along with information on him/her. Those ads can lead to 
