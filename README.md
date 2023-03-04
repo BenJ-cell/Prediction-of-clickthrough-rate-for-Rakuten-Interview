@@ -22,7 +22,7 @@ paid for it. The others pay 0.
 So in order to give a coherent price of those ad placements using users'infomation a
 nd their contexts, we must estimate the potential clickthrough rate (CTR) of the 
 impression (ie: the probability they will click on the ad). This 
-must be done beforewe informthe auction of the price we arewilling to offer to 
+must be done before we inform the auction of the price we arewilling to offer to 
 display the banner.
 To compute our CTR estimation, we have user-related information 
 (e.g. time since last visit on an advertiser’s website, number of banners already displ
