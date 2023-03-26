@@ -13,7 +13,7 @@ competitors are involved.
 
 • What: One auction = one ad placement for one user at one given moment.
 
-• Time to propose a price: 100 millisecondsto give a maximum amountto pay for 
+• Time to propose a price: 100 milliseconds to give a maximum amountto pay for 
 the ad placement called bid response secretto other competitors(sealed auction).
 
 • Who gets the ad placement: The participant who proposed the highest priced and
