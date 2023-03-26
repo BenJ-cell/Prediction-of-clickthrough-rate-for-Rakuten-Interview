@@ -25,6 +25,6 @@ impression (ie: the probability they will click on the ad). This
 must be done before we inform the auction of the price we arewilling to offer to 
 display the banner.
 To compute our CTR estimation, we have user-related information 
-(e.g. time since last visit on an advertiser’s website, number of banners already displ
-ayed to that user), and context-related information (e.g. format of the 
+(e.g. time since last visit on an advertiser’s website, number of banners already displayed 
+to that user), and context-related information (e.g. format of the 
 ad placement, domain of the web page on which it is to be displayed).
